@@ -1,0 +1,16 @@
+# ==================================================
+# ImagineInk - Frontend Requirements
+# ==================================================
+# Python Version: 3.10+
+# Install using: pip install -r requirements_frontend.txt
+# ==================================================
+
+# -------- GUI Framework --------
+PyQt6
+
+# -------- Backend Communication --------
+requests
+
+# -------- Export & Document Generation --------
+reportlab
+pillow

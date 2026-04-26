@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Database
+*.db
+
+# Generated files
+*.pdf
+*.zip
+
+# Temp files
+tempCodeRunnerFile.py
+
+# Outputs
+comic_output/
+
+# Models (VERY IMPORTANT)
+models/
